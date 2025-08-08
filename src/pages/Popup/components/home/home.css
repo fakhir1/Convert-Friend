@@ -10,7 +10,7 @@ body {
 
 .app-container {
   width: 330px; /* Typical extension popup width */
-  height: 420px;
+  height: 470px;
   background-color: #faf8f6;
   padding: 16px;
   display: flex;
